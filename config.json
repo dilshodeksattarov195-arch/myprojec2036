@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcave",
+        "uuid": 9668964,
+        "checksum": "fchbg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
